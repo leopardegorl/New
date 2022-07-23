@@ -1,0 +1,7 @@
+{
+  "host": "192.168.1.110",
+  "port": "1521",
+  "user": "c##new_user",
+  "password": "a1bfi5cn",
+  "dbName": "XE"
+}
